@@ -1,1 +1,1 @@
-I am currently learning basic dataset importing and data splitting in scikitlearn
+I am currently learning basic ml algorithms using scikit learn
